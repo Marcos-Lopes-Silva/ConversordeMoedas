@@ -11,4 +11,4 @@ API de cotação de moedas utilizada para acesso a cotação: <https://docs.awes
 - Tela Desenvolvida
 
 
-<img src="https://user-images.githubusercontent.com/86811187/220722471-c427e47b-8277-4b80-87af-1e965052d304.png" width="100px" height="150px"/>
+<img src="https://user-images.githubusercontent.com/86811187/220722471-c427e47b-8277-4b80-87af-1e965052d304.png" width="200px" height="350px"/>
