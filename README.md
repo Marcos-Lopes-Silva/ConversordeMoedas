@@ -1,7 +1,8 @@
 # ConversorAndroid
 
+`Concluído`
 
-- Linguagem de programação utilizada: Java.
+Linguagem de programação utilizada: `Java`.
 
 Projeto desenvolvido em 2 dias com auxilio de vídeoaulas. 
 
