@@ -4,8 +4,6 @@
 
 Linguagem de programação utilizada: `Java`.
 
-Projeto desenvolvido em 2 dias com auxilio de vídeoaulas. 
-
 API de cotação de moedas utilizada para acesso a cotação: <https://docs.awesomeapi.com.br/api-de-moedas>
 
 - Tela Desenvolvida
